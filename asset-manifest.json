@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f61b00c0.css",
-    "main.js": "/react-gh-pages/static/js/main.0c63652f.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f61b00c0.css.map": "/react-gh-pages/static/css/main.f61b00c0.css.map",
-    "main.0c63652f.js.map": "/react-gh-pages/static/js/main.0c63652f.js.map"
+    "main.css": "/FrontEnd-Bootcamp-React-2/static/css/main.f61b00c0.css",
+    "main.js": "/FrontEnd-Bootcamp-React-2/static/js/main.0c63652f.js",
+    "index.html": "/FrontEnd-Bootcamp-React-2/index.html",
+    "main.f61b00c0.css.map": "/FrontEnd-Bootcamp-React-2/static/css/main.f61b00c0.css.map",
+    "main.0c63652f.js.map": "/FrontEnd-Bootcamp-React-2/static/js/main.0c63652f.js.map"
   },
   "entrypoints": [
     "static/css/main.f61b00c0.css",
