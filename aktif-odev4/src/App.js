@@ -4,11 +4,12 @@ import HomePage from "./components/HomePage";
 import Orders from "./components/Orders";
 import Suppliers from "./components/Suppliers";
 import NotFound from "./components/NotFound";
+import MyForm from "./components/MyForm";
 
 function App() {
   return (
     <>
-      <ul style={{ display: "flex", justifyContent: "space-around" }}>
+      {/* <ul style={{ display: "flex", justifyContent: "space-around" }}>
         <li>
           <Link to="/">Home</Link>
         </li>
@@ -24,7 +25,8 @@ function App() {
         <Route path="/suppliers" element={<Suppliers />} />
         <Route path="/orders" element={<Orders />} />
         <Route path="*" element={<NotFound />} />
-      </Routes>
+      </Routes> */}
+      <MyForm />
     </>
   );
 }
